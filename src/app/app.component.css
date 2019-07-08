@@ -1,0 +1,133 @@
+body {
+    margin: 0;
+    padding: 0;
+ }
+    .container {
+
+        width: 70%;
+        display: flex;
+        flex-direction: row;
+        border: 1px solid red;
+        margin-left: 15%;
+        font-family: Arial, Helvetica, sans-serif;
+}
+.content {
+    padding-left: 4%;
+}
+img {
+    max-width: 70%;
+    border-radius: 50%;
+    margin-left: 15%;
+}
+
+.side {
+    border: 1px solid green;
+    width: 40%;
+  height: 100vh; 
+    background-color: #02014b;
+}
+
+.pbox1 {
+    border: 1px solid rgb(224, 7, 7);
+    width: 100%;
+    height: 30vh;
+   
+}
+.content {
+  
+    border: 1px solid white;
+    position: relative;
+    margin-bottom: 0;
+}
+ 
+
+li, h3, #yes {
+    color: white;
+}
+h2 {
+    color: whitesmoke;
+    text-align: center;
+
+}
+#head {
+    text-align: center;
+    font-size: 1.5vh;
+   padding-top: 0;
+}
+.side2 {
+    margin-left: 2%;
+    width: 100%;
+}
+
+.header {
+    width: 100%;
+    border: 1px solid gold;
+    background-color: #02014b;
+    height: 10%;
+
+}
+.headers {
+    color: rgb(3, 3, 31);
+}
+.exper {
+    border: 1px solid goldenrod;
+}
+
+.educa {
+    color: 1px solid rgb(0, 0, 0);
+    background: aquamarine;
+}
+.ref {
+    border: 1px solid green;
+}
+.headers {
+    color: #04041a;
+    text-align: left;
+    padding-left: 3%;
+}
+
+.smallH {
+    color: dodgerblue;
+    font-size: 1.8vh;
+}
+.about {
+    border: 1px solid rgb(236, 213, 0); 
+    height: 30vh;
+    margin-left: 0;
+
+}
+.contact {
+    border: 1px solid rgb(90, 253, 90); 
+    height: 20vh;
+    margin-left: 0;
+
+}
+.follow{
+    height: 20vh;
+}
+ul > li {
+    list-style-type: none;
+    padding-top: 3%;
+    font-size: 1.6vh;
+}
+.follow {
+    border: 1px solid rgb(193, 41, 231);
+    height: 20vh;
+    margin-left: 0;
+}
+.skills {
+    border: 1px solid rgb(233, 30, 57);
+    height: 30vh;
+}
+a {
+    cursor: pointer;
+}
+
+/* part 2 */
+p{
+    color: #04041a;
+}
+
+.icons {
+    margin-left: 2%;
+}
